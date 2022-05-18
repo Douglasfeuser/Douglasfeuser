@@ -20,9 +20,7 @@
 </div>
  
  
-#### ⚡ Technologies
-
- Some technologies and tools that i work with:
+#### ⚡ Tecnologias
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
