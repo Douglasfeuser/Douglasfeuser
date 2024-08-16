@@ -1,6 +1,6 @@
 ### Olá, eu sou o Douglas Feuser 👋
 
-- 🔭 Atualmente trabalhando como desenvolvedor full stack na engeplus telecom
+- 🔭 Atualmente trabalhando como desenvolvedor full stack
 
  <div>
   <a href="https://github.com/douglasfeuser">
